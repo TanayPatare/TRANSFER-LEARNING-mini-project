@@ -1,5 +1,5 @@
 # TRANSFER-LEARNING-mini-project![transfer_learning](https://user-images.githubusercontent.com/103351965/223041753-14c223bc-4363-4318-a8cd-a2be74f4d2a1.jpg)
-##################################################################################################################
+#################################################################################################################
 
 Transfer learning is a technique that involves taking a pre-trained model and adapting it to a new task. Since the pre-trained model has already learned features from a large dataset, it can be used as a starting point for a new task, even if the new task involves a different set of classes.
 
